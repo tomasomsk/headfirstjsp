@@ -13,4 +13,22 @@
         <url-pattern>/Serv1</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>Chapter2 Magnets Servlet</servlet-name>
+        <servlet-class>chapter2.Magnets</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Chapter2 Magnets Servlet</servlet-name>
+        <url-pattern>/Dice</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch3 Beer</servlet-name>
+        <servlet-class>chapter3.beer.web.BeerSelect</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch3 Beer</servlet-name>
+        <url-pattern>/SelectBeer.do</url-pattern>
+    </servlet-mapping>
+
 </web-app>
