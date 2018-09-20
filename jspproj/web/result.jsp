@@ -9,6 +9,10 @@
         for (Object style : styles) {
             out.print("<br>try: " + style);
         }
+        out.print("<br>");
+        out.print("<br>");
+        out.print("<br>");
+        out.print("admin email: " + getServletConfig().getServletContext().getInitParameter("adminEmail"));
     %>
 </p>
 </body>
