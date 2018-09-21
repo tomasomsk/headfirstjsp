@@ -7,21 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e25d44a-cd5e-4baa-a68a-f1c938f8f2f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/TestInitParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/beer/model/BeerExpert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/beer/web/BeerSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/ListenerTesterServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/MyServletContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CheckCookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CookiesTestServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/cookieresult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/cookiesform.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/WEB-INF/classes/chapter3/beer/web/BeerSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/WEB-INF/classes/chapter3/beer/web/BeerSelect.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/result.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter3/beer/web/BeerSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter3/beer/web/BeerSelect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/ListenerTesterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/ListenerTesterServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/result.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,36 +35,36 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="5" />
-          <entry key="html" value="1" />
-          <entry key="java" value="12" />
-          <entry key="jsp" value="3" />
+          <entry key="class" value="6" />
+          <entry key="html" value="3" />
+          <entry key="java" value="16" />
+          <entry key="jsp" value="6" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="HTML" value="1" />
-          <entry key="JAVA" value="12" />
-          <entry key="JSP" value="3" />
+          <entry key="CLASS" value="6" />
+          <entry key="HTML" value="3" />
+          <entry key="JAVA" value="16" />
+          <entry key="JSP" value="6" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="3" />
-          <entry key="java" value="770" />
+          <entry key="html" value="17" />
+          <entry key="java" value="1129" />
           <entry key="jsp" value="144" />
-          <entry key="xml" value="142" />
+          <entry key="xml" value="257" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="3" />
-          <entry key="JAVA" value="770" />
+          <entry key="HTML" value="17" />
+          <entry key="JAVA" value="1129" />
           <entry key="JSP" value="144" />
-          <entry key="XML" value="142" />
+          <entry key="XML" value="257" />
         </counts>
       </usages-collector>
     </session>
@@ -78,45 +72,79 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1360">
-              <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/dogincontext/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="415">
+              <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/cookiesform.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CookiesTestServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/cookieresult.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CheckCookie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/beer/web/BeerSelect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/beer/model/BeerExpert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/dogincontext/MyServletContextListener.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,8 +155,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/dogincontext/ListenerTesterServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="289">
+              <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,8 +175,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>”</find>
       <find>init</find>
+      <find>getinit</find>
+      <find>”</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -171,10 +200,14 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter3/beer/web/BeerSelect.java" />
         <option value="$PROJECT_DIR$/web/form.html" />
         <option value="$PROJECT_DIR$/web/result.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/MyServletContextListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/Dog.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/ListenerTesterServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/MyServletContextListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CookiesTestServlet.java" />
+        <option value="$PROJECT_DIR$/web/cookieresult.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CheckCookie.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/cookiesform.html" />
       </list>
     </option>
   </component>
@@ -214,7 +247,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="131" />
     <option name="y" value="110" />
     <option name="width" value="1131" />
@@ -258,24 +291,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="beer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jspproj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jspproj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-              <item name="dogincontext" type="462c0819:PsiDirectoryNode" />
+              <item name="cookiesExample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
@@ -298,7 +314,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537447971772" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537534242247" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -307,6 +323,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\Books\git\headfirstjsp\jspproj\web" />
       <recent name="C:\Work\Books\git\headfirstjsp\jspproj\src\main\java\chapter5" />
     </key>
   </component>
@@ -466,12 +483,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537340342045</updated>
-      <workItem from="1537340345407" duration="14655000" />
+      <workItem from="1537340345407" duration="20185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14655000" />
+    <option name="totallyTimeSpent" value="20185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -596,9 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/beer/model/BeerExpert.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/beer/web/BeerSelect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -619,20 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/beer/web/BeerSelect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/result.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -640,17 +640,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/dogincontext/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
           <folding>
             <element signature="e#108#109#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
@@ -664,21 +657,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/dogincontext/ListenerTesterServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="289">
+          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/beer/web/BeerSelect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/beer/model/BeerExpert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/javax/servlet/ServletContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/dogincontext/MyServletContextListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/cookieresult.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CheckCookie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CookiesTestServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/cookiesform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>

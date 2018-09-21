@@ -8,6 +8,19 @@
         <param-name>adminEmail</param-name>
         <param-value>clientheaderror@wickedlysmart.com</param-value>
     </context-param>
+    <context-param>
+        <param-name>breed</param-name>
+        <param-value>poudel</param-value>
+    </context-param>
+
+
+    <listener>
+        <listener-class>chapter5.dogincontext.MyServletContextListener</listener-class>
+    </listener>
+
+    <session-config>
+        <session-timeout>20</session-timeout>
+    </session-config>
 
     <servlet>
         <servlet-name>Chapter1 Servlet</servlet-name>
@@ -60,6 +73,24 @@
     <servlet-mapping>
         <servlet-name>Ch5 Beer</servlet-name>
         <url-pattern>/SelectBeerUpd.do</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ListenerTest</servlet-name>
+        <servlet-class>chapter5.dogincontext.ListenerTesterServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ListenerTest</servlet-name>
+        <url-pattern>/listenertest</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Cookies Test</servlet-name>
+        <servlet-class>chapter6.cookiesExample.CookiesTestServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Cookies Test</servlet-name>
+        <url-pattern>/cookiestest.do</url-pattern>
     </servlet-mapping>
 
 </web-app>

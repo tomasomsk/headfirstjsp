@@ -2,7 +2,7 @@ package chapter5.dogincontext;
 
 public class Dog {
 
-    String breed;
+    private String breed;
 
     public Dog(String breed) {
         this.breed = breed;
