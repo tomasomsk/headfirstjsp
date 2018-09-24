@@ -93,4 +93,31 @@
         <url-pattern>/cookiestest.do</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>Check Cookie</servlet-name>
+        <servlet-class>chapter6.cookiesExample.CheckCookie</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Check Cookie</servlet-name>
+        <url-pattern>/checkcookie.do</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Counter</servlet-name>
+        <servlet-class>chapter7.counter.ServletToCounter</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Counter</servlet-name>
+        <url-pattern>/testcounter</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Chapter7Magnets</servlet-name>
+        <servlet-class>chapter7.magnets.HobbyPageServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Chapter7Magnets</servlet-name>
+        <url-pattern>/HobbyPage.do</url-pattern>
+    </servlet-mapping>
+
 </web-app>
