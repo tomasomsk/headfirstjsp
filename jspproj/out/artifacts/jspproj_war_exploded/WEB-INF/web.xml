@@ -120,4 +120,22 @@
         <url-pattern>/HobbyPage.do</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>chapter 8 first</servlet-name>
+        <servlet-class>chapter8.firstexample.ServletController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>chapter 8 first</servlet-name>
+        <url-pattern>/chapter8first</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>chapter 8 props in props</servlet-name>
+        <servlet-class>chapter8.propertyofproperty.Servlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>chapter 8 props in props</servlet-name>
+        <url-pattern>/chapter8propsinprops</url-pattern>
+    </servlet-mapping>
+
 </web-app>
