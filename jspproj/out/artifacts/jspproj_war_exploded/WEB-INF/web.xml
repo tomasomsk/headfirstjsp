@@ -138,4 +138,22 @@
         <url-pattern>/chapter8propsinprops</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>chapter 8 magnets</servlet-name>
+        <servlet-class>chapter8.magnets.Servlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>chapter 8 magnets</servlet-name>
+        <url-pattern>/chapter8magnets</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Movies Servlet</servlet-name>
+        <servlet-class>chapter9.moviesarray.Servlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Movies Servlet</servlet-name>
+        <url-pattern>/chapter9movies</url-pattern>
+    </servlet-mapping>
+
 </web-app>
