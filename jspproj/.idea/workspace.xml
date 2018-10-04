@@ -7,24 +7,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e25d44a-cd5e-4baa-a68a-f1c938f8f2f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/taglibs_standard_impl_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8/magnets/Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8/propertyofproperty/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8/rolldiceusingmethods/RollDicer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9/moviesarray/Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/functionsTagLib.tld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/chapter8magnets.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/chapter8rolldice.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/chapter9movies.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10/beeradvicenew/BeerTagHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10/beeradvicenew/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10/customtaghandler/CustomTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13/BeerRequestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9/customtag/TagHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/chapter10taghandler.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/customtag.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/chapter10errorpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/chapter10loginpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/chapter10newbeer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/chapter10taghandler.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/chapter9customtag.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/WEB-INF/classes/chapter5/dogincontext/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/WEB-INF/classes/chapter5/dogincontext/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspproj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jspproj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/WEB-INF/functionsTagLib.tld" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/WEB-INF/functionsTagLib.tld" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jspproj_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/dogincontext/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/dogincontext/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/functionsTagLib.tld" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/functionsTagLib.tld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/basicCounter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/basicCounter.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chapter8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/chapter8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chapter8form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/chapter8form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chapter8magnets.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/chapter8magnets.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chapter8propinprop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/chapter8propinprop.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chapter8rolldice.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/chapter8rolldice.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chapter8testbean.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/chapter8testbean.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chapter9movies.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/chapter9movies.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/cookieresult.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/cookieresult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/cookiesform.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/cookiesform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/magnetjsp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/magnetjsp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/magnetsform.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/magnetsform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/result.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,38 +62,40 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="chapter10newbeer" value="1" />
           <entry key="class" value="6" />
-          <entry key="html" value="7" />
-          <entry key="java" value="41" />
-          <entry key="jsp" value="22" />
-          <entry key="tld" value="1" />
-          <entry key="xml" value="2" />
+          <entry key="html" value="10" />
+          <entry key="java" value="56" />
+          <entry key="jsp" value="32" />
+          <entry key="tld" value="8" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="HTML" value="7" />
-          <entry key="JAVA" value="41" />
-          <entry key="JSP" value="22" />
-          <entry key="XML" value="3" />
+          <entry key="HTML" value="10" />
+          <entry key="JAVA" value="56" />
+          <entry key="JSP" value="32" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="68" />
-          <entry key="java" value="2259" />
-          <entry key="jsp" value="1211" />
-          <entry key="tld" value="25" />
-          <entry key="xml" value="622" />
+          <entry key="html" value="133" />
+          <entry key="java" value="3066" />
+          <entry key="jsp" value="1436" />
+          <entry key="tld" value="383" />
+          <entry key="xml" value="727" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="68" />
-          <entry key="JAVA" value="2259" />
-          <entry key="JSP" value="1211" />
-          <entry key="XML" value="647" />
+          <entry key="HTML" value="133" />
+          <entry key="JAVA" value="3066" />
+          <entry key="JSP" value="1436" />
+          <entry key="XML" value="1110" />
         </counts>
       </usages-collector>
     </session>
@@ -83,19 +103,48 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/customtag.tld">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="150" column="45" selection-start-line="150" selection-start-column="45" selection-end-line="150" selection-end-column="45" />
+            <state relative-caret-position="119">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter9/moviesarray/Servlet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter10newbeer.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="102">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter10/beeradvicenew/BeerTagHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1569#1570#0" expanded="true" />
+                <element signature="e#1596#1597#0" expanded="true" />
+                <element signature="e#1636#1637#0" expanded="true" />
+                <element signature="e#1668#1669#0" expanded="true" />
+                <element signature="e#1832#1833#0" expanded="true" />
+                <element signature="e#1864#1865#0" expanded="true" />
+                <element signature="e#1912#1913#0" expanded="true" />
+                <element signature="e#1954#1955#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter10/beeradvicenew/Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,11 +152,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/chapter9movies.jsp">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter13/BeerRequestFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter10loginpage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter10errorpage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -117,8 +196,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -126,12 +206,15 @@
     <findStrings>
       <find>init</find>
       <find>getinit</find>
-      <find>&quot;</find>
       <find>bold</find>
       <find>“</find>
       <find>”</find>
+      <find>‘</find>
+      <find>’</find>
+      <find>&quot;</find>
     </findStrings>
     <replaceStrings>
+      <replace>'</replace>
       <replace>&quot;</replace>
     </replaceStrings>
     <dirStrings>
@@ -144,25 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Ch1Servlet.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter1/Ch1Servlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter2/magnets.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter2/Magnets.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter3/beer/model/BeerExpert.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter5/beer/web/BeerSelect.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter5/TestInitParams.java" />
-        <option value="$PROJECT_DIR$/web/form.html" />
-        <option value="$PROJECT_DIR$/web/result.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/MyServletContextListener.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter5/dogincontext/ListenerTesterServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CookiesTestServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CheckCookie.java" />
-        <option value="$PROJECT_DIR$/web/cookiesform.html" />
-        <option value="$PROJECT_DIR$/web/cookieresult.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter3/beer/web/BeerSelect.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter7/counter/Counter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter7/counter/ServletToCounter.java" />
         <option value="$PROJECT_DIR$/web/basicCounter.jsp" />
         <option value="$PROJECT_DIR$/web/magnetsform.html" />
         <option value="$PROJECT_DIR$/src/main/java/chapter7/magnets/HobbyPageServlet.java" />
@@ -183,11 +247,37 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter8/magnets/Servlet.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/mytaglib.tld" />
         <option value="$PROJECT_DIR$/src/main/java/chapter8/rolldiceusingmethods/RollDicer.java" />
-        <option value="$PROJECT_DIR$/web/chapter8rolldice.jsp" />
         <option value="$PROJECT_DIR$/web/chapter8magnets.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/chapter9/moviesarray/Servlet.java" />
         <option value="$PROJECT_DIR$/web/chapter9movies.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter9/customtag/TagClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter9/customtag/TagHandler.java" />
+        <option value="$PROJECT_DIR$/web/chapter9customtag.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/customtag.tld" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/functionsTagLib.tld" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/chapter8rolldice.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter10/customtag/CustomTag.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/chapter10taghandler.tld" />
+        <option value="$PROJECT_DIR$/src/main/webapp/chapter10taghandler.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter10/customtaghandler/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter10/customtaghandler/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter10/customtaghandler/CustomTag.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/chapter10newbeer.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/form.html" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter10/beeradvicenew/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/customtag.tld" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/chapter10loginpage.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/chapter10errorpage.html" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter12/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter12/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter12/B.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter13/BeerRequestFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/chapter10newbeer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter10/beeradvicenew/BeerTagHandler.java" />
       </list>
     </option>
   </component>
@@ -223,15 +313,20 @@
           <item name="jspproj" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jspproj" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="131" />
-    <option name="y" value="110" />
-    <option name="width" value="1131" />
-    <option name="height" value="853" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -270,69 +365,7 @@
               <item name="jspproj" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jspproj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jspproj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
-              <item name="magnets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jspproj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
-              <item name="propertyofproperty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jspproj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
-              <item name="rolldiceusingmethods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jspproj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="moviesarray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jspproj" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jspproj" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jspproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jspproj" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -342,18 +375,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538046621177" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538653703381" />
+    <property name="last_opened_file_path" value="C:/Projects/FoodCalculator" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.15862069" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\Books\git\headfirstjsp\jspproj\src\main" />
       <recent name="C:\Work\Books\git\headfirstjsp\jspproj\web" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -543,16 +579,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537340342045</updated>
-      <workItem from="1537340345407" duration="56135000" />
+      <workItem from="1537340345407" duration="87714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56135000" />
+    <option name="totallyTimeSpent" value="87714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -560,7 +595,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32936078" />
       <window_info anchor="bottom" id="Spring" />
@@ -572,7 +607,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,7 +615,7 @@
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.081023455" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.12899786" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -595,154 +630,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter2/Magnets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/javax/servlet/ServletRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432">
-          <caret line="136" column="21" lean-forward="true" selection-start-line="136" selection-start-column="21" selection-end-line="136" selection-end-column="21" />
-          <folding>
-            <element signature="e#4714#4715#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/javax/servlet/ServletConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/javax/servlet/GenericServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="58" column="27" lean-forward="true" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/TestInitParams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="78" lean-forward="true" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/dogincontext/ListenerTesterServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/beer/model/BeerExpert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/javax/servlet/ServletContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/dogincontext/MyServletContextListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/cookiesform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter6/cookiesExample/CheckCookie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/beer/web/BeerSelect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="119" selection-start-line="15" selection-start-column="119" selection-end-line="15" selection-end-column="119" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter7/counter/Counter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/cookieresult.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/cookieresult.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="7" />
@@ -786,17 +674,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/beer/model/BeerExpert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/chapter8.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter8.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="98" selection-start-line="8" selection-start-column="98" selection-end-line="8" selection-end-column="98" />
@@ -813,28 +691,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/result.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/result.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="107" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="107" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/magnetsform.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/magnetsform.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/magnetjsp.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/magnetjsp.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/basicCounter.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/basicCounter.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
@@ -865,7 +743,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/chapter8form.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter8form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
@@ -938,48 +816,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/functionsTagLib.tld">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter8/magnets/Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/chapter8testbean.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter8testbean.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/chapter8propinprop.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/chapter8rolldice.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter8/rolldiceusingmethods/RollDicer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -993,17 +833,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/chapter8magnets.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter9movies.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="63" selection-start-line="1" selection-end-line="1" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="150" column="45" selection-start-line="150" selection-start-column="45" selection-end-line="150" selection-end-column="45" />
+        <state relative-caret-position="255">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1017,10 +850,244 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/chapter9movies.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter8/rolldiceusingmethods/RollDicer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/functionsTagLib.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter8rolldice.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter8propinprop.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter8magnets.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter8/magnets/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter9customtag.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter9/customtag/TagHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter10/customtaghandler/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter10/customtaghandler/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/beer/web/BeerSelect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <caret line="15" column="119" selection-start-line="15" selection-start-column="119" selection-end-line="15" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/beer/model/BeerExpert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/chapter10taghandler.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter10taghandler.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter10/customtaghandler/CustomTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter10/beeradvicenew/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter10errorpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter12/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter12/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#75#76#0" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter12/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter10loginpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter13/BeerRequestFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/customtag.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/chapter10newbeer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter10/beeradvicenew/BeerTagHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1569#1570#0" expanded="true" />
+            <element signature="e#1596#1597#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1668#1669#0" expanded="true" />
+            <element signature="e#1832#1833#0" expanded="true" />
+            <element signature="e#1864#1865#0" expanded="true" />
+            <element signature="e#1912#1913#0" expanded="true" />
+            <element signature="e#1954#1955#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1034,7 +1101,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.15862069" />
                 <option value="0.5" />
               </list>
             </option>
@@ -1078,11 +1145,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>jspproj</last-edited>
+          <last-edited>Web|jspproj</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.15862069" />
               </list>
             </option>
           </splitter-proportions>

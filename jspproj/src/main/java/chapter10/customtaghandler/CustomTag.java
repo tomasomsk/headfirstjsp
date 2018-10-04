@@ -1,4 +1,4 @@
-package chapter10.customtag;
+package chapter10.customtaghandler;
 
 import javax.servlet.jsp.JspException;
 import javax.servlet.jsp.tagext.SimpleTagSupport;

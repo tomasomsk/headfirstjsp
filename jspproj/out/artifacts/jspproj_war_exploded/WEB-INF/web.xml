@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+<web-app xmlns="http://xmlns.jcp.org/xml/javaee"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
+
+    <login-config>
+        <auth-method>FORM</auth-method>
+        <form-login-config>
+            <form-login-page>/chapter10loginpage.html</form-login-page>
+            <form-error-page>/chapter10errorpage.html</form-error-page>
+        </form-login-config>
+    </login-config>
+
+    <security-role>
+        <role-name>Admin</role-name>
+    </security-role>
+    <security-role>
+        <role-name>Member</role-name>
+    </security-role>
+    <security-role>
+        <role-name>Guest</role-name>
+    </security-role>
+
+    <security-constraint>
+        <web-resource-collection>
+            <web-resource-name>UpdateRecipes</web-resource-name>
+            <url-pattern>/chapter10newbeer/*</url-pattern>
+            <http-method>GET</http-method>
+            <http-method>POST</http-method>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>Admin</role-name>
+            <role-name>Member</role-name>
+        </auth-constraint>
+    </security-constraint>
 
     <context-param>
         <param-name>adminEmail</param-name>
@@ -39,7 +70,7 @@
         <servlet-name>Chapter2 Magnets Servlet</servlet-name>
         <url-pattern>/Dice</url-pattern>
     </servlet-mapping>
-    
+
     <servlet>
         <servlet-name>Ch3 Beer</servlet-name>
         <servlet-class>chapter3.beer.web.BeerSelect</servlet-class>
@@ -155,5 +186,15 @@
         <servlet-name>Movies Servlet</servlet-name>
         <url-pattern>/chapter9movies</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>New Beer Servlet</servlet-name>
+        <servlet-class>chapter10.beeradvicenew.Servlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>New Beer Servlet</servlet-name>
+        <url-pattern>/chapter10newbeer</url-pattern>
+    </servlet-mapping>
+
 
 </web-app>
