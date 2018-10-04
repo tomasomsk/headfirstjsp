@@ -2,9 +2,11 @@
 <taglib version="2.0" xmlns="http://java.sun.com/xml/j2ee"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd">
+
     <tlib-version>1.2</tlib-version>
     <short-name>some name</short-name>
     <uri>DiceFunctions</uri>
+
     <function>
         <name>rollIt</name>
         <function-class>chapter8.rolldiceusingmethods.RollDicer</function-class>
@@ -12,4 +14,5 @@
             int rollDice()
         </function-signature>
     </function>
+
 </taglib>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<taglib version="2.0" xmlns="http://java.sun.com/xml/j2ee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd">
+
+    <tlib-version>1.2</tlib-version>
+    <short-name>another name</short-name>
+    <uri>CustomTags</uri>
+
+    <tag>
+        <description>test of custom</description>
+        <name>advice</name>
+        <tag-class>chapter9.customtag.TagHandler</tag-class>
+        <body-content>empty</body-content>
+        <attribute>
+            <name>userName</name>
+            <required>true</required>
+            <rtexpvalie>false</rtexpvalie>
+        </attribute>
+    </tag>
+
+</taglib>
